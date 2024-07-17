@@ -1,0 +1,15 @@
+/* src/styles.css */
+.container {
+  padding: 40px;
+  margin-top: 50px;
+  display: grid;
+  justify-content: space-around;
+}
+
+.form-field {
+  margin-bottom: 30px;
+}
+
+.list-item {
+  border-bottom: 1px solid rgba(255, 0, 0, 0.6);;
+}
